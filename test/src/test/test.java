@@ -9,5 +9,8 @@ public class test {
 		}else System.out.println("not null");
 
 	}
+	public void test(){
+		
+	}
 
 }
